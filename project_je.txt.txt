@@ -1,0 +1,57 @@
+https://www.youtube.com/watch?v=dqUwxH2aoWM&list=PLSiLeKadTQ7myn8SR-suN69t0iyJ_tZl6&index=8 -> PROJECT_)ONE
+
+https://mdbgo.com/#section-steps free host
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg bg-body-dark" id="navbar" >
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <ul class="navbar-nav" >
+      <li class="nav-item">
+          <a class="nav-link active text-light" class="active" aria-current="page" href="index.php">Home</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle text-light" href="javascript:void(0)" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            products
+          </a>
+          <ul class="dropdown-menu text-light" id="style_products">
+          <div style="display:flex;">
+           <div>
+           <li><a class="dropdown-item  text-light "  href="#"> Product Sectors</a></li>
+            <li><a class="dropdown-item text-light" href="#"> Automotive</a></li>
+            <li><a class="dropdown-item text-light" href="#">Motorcycle</a></li>
+            
+           </div>
+           <div>
+           <li><a class="dropdown-item text-light"  href="#">Industrial</a></li>
+            <li><a class="dropdown-item text-light" href="#">Heritage & Steam</a></li>
+            <li><a class="dropdown-item text-light" href="#">Marine</a></li>
+          
+
+           </div>
+           <div>
+           <li><a class="dropdown-item text-light" href="#">Agriculture</a></li>
+            <li><a class="dropdown-item text-light" href="#">Off Highway</a></li>
+            <li><a class="dropdown-item text-light" href="#">Power Generation</a></li>
+         
+
+           </div>
+           
+           <div>
+           <li><a class="dropdown-item text-light" href="#">Rail</a></li>
+            <li><a class="dropdown-item text-light" href="#">Motorsport</a></li>
+            <li><a class="dropdown-item text-light" href="#">Commercial Vehicles</a></li>
+         
+
+           </div>
+           </div>
+          </ul>
+          
+        </li>
